@@ -1,0 +1,8 @@
+name: rise-environment
+channels:
+  - conda-forge
+dependencies:
+  - sunpy
+  - rise
+  - pip:
+    - https://github.com/sunpy/xrayvision.git
