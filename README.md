@@ -1,6 +1,6 @@
 # Creating interactive presentations on Binder with RISE
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/jupyter-rise/master?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/samaloney/rhessi17/master?filepath=index.ipynb)
 
 RISE allows you to quickly generate a live, interactive presentation from a
 Jupyter Notebook that is connected to the underlying Kernel of the notebook.
