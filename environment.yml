@@ -5,4 +5,4 @@ dependencies:
   - sunpy
   - rise
   - pip:
-    - git+https://github.com/sunpy/xrayvision.git
+    - git+https://github.com/sunpy/xrayvision.git@master
